@@ -1,4 +1,4 @@
-# CS-513 System Software - Mini Project: Banking Management System
+# Banking Management System
 
 This project is a client-server Banking Management System designed for the CS-513 System Software course. 
 It simulates core functionalities of a bank, such as customer account management, transactions, and loan processing.
@@ -133,6 +133,3 @@ If running for the first time (no `.dat` files exist):
 - `client.c`: Client application; connects to server, handles input/output, and displays menus.
 
 ---
-
-Developed for the **CS-513 System Software** course  
-**Mini Project: Banking Management System**
